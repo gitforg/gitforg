@@ -1,6 +1,6 @@
 #  Hey, I'm Garvita Sharma!
 
-Hey! I'm a **Computer Science student specializing in Cyber Security** who is learning, building, and figuring out why my code broke this time. I have a strong foundation in computer science fundamentals and am comfortable with **Python** and **C++**. I enjoy working with new technologies, development, and cybersecurity while collecting questionable commit messages along the way.
+I'm a **Computer Science student specializing in Cyber Security** who is learning, building, and figuring out why my code broke this time. I have a strong foundation in computer science fundamentals and am comfortable with **Python** and **C++**. I enjoy working with new technologies, development, and cybersecurity while collecting questionable commit messages along the way.
 
 ---
 
